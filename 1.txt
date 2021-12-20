@@ -1,0 +1,10 @@
+Variable componenents for Meetup:
+
+Menu: https://mui.com/components/menus/#main-content
+Navbars: https://mui.com/components/app-bar/#main-content
+Cards: https://mui.com/components/cards/#main-content
+Text Fields: https://mui.com/components/text-fields/#main-content
+Buttons: https://mui.com/components/buttons/#main-content
+Checkbox: https://mui.com/components/checkboxes/#main-content
+Switches: https://mui.com/components/switches/
+Date Picker: https://mui.com/components/pickers/#main-content
